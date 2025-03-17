@@ -8,6 +8,8 @@ Welcome to my repository where I share my solutions to the Jane Street [monthly 
 
 [Feburary 2025: Top Score (Give or Take)](https://github.com/mxmayerr/jane-street-solutions/blob/main/feb2025.md)
 
+March 2025: Hall of Mirrors 3 (in progress...)
+
 ---
 
 ### About Me
