@@ -6,6 +6,8 @@ Welcome to my repository where I share my solutions to the Jane Street [monthly 
 
 [January 2025: Somewhat Square Sudoku](https://github.com/mxmayerr/jane-street-solutions/blob/main/jan2025.md)
 
+[Feburary 2025: Top Score (Give or Take)](https://github.com/mxmayerr/jane-street-solutions/blob/main/feb2025.md)
+
 ---
 
 ### About Me
