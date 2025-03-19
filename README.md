@@ -2,11 +2,11 @@
 
 Welcome to my repository where I share my solutions to the Jane Street [monthly puzzles](https://www.janestreet.com/puzzles/current-puzzle/). Click below to be taken to my solution.
 
-[December 2024: Games Night!](https://github.com/mxmayerr/jane-street-solutions/blob/main/dec2024.md)
+[December 2024: Games Night!](dec2024.md)
 
-[January 2025: Somewhat Square Sudoku](https://github.com/mxmayerr/jane-street-solutions/blob/main/jan2025.md)
+[January 2025: Somewhat Square Sudoku](jan2025.md)
 
-[Feburary 2025: Top Score (Give or Take)](https://github.com/mxmayerr/jane-street-solutions/blob/main/feb2025.md)
+[February 2025: Top Score (Give or Take)](feb2025.md)
 
 March 2025: Hall of Mirrors 3 (in progress...)
 
